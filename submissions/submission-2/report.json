@@ -1,0 +1,10 @@
+{
+    "ChecklistsCompleted": [
+        "packageJsonExists",
+        "mainJsExists",
+        "mainJsHaveStudentIdComment",
+        "rootShowingHtml",
+        "serveInPort5000"
+    ],
+    "Message": "Hallo Asep masih terdapat beberapa kesalahan, berikut adalah kesalahan yang terjadi <ul><li>packageJsonExists</li><li>mainJsExists</li><li>mainJsHaveStudentIdComment</li><li>rootShowingHtml</li><li>serveInPort5000</li></ul>. Silakan diperbaiki yaa."
+}

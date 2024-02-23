@@ -1,0 +1,7 @@
+{
+    "ChecklistsCompleted": [
+        "packageJsonExists",
+        "mainJsExists"
+    ],
+    "Message": "Hallo Asep masih terdapat beberapa kesalahan, berikut adalah kesalahan yang terjadi <ul><li>packageJsonExists</li><li>mainJsExists</li></ul>. Silakan diperbaiki yaa."
+}

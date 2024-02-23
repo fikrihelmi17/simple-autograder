@@ -1,0 +1,11 @@
+{
+    "ChecklistsCompleted": [
+        "packageJsonExists",
+        "mainJsExists",
+        "mainJsHaveStudentIdComment",
+        "rootShowingHtml",
+        "serveInPort5000",
+        "htmlContainH1ElementWithStudentId"
+    ],
+    "Message": "Selamat <b>Ujang!!</b> kamu telah lolos submission ini."
+}
